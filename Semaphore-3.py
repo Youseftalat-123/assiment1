@@ -1,5 +1,5 @@
 import threading
-
+//youseftalaat
 sem = threading.Semaphore(2)
 
 def access_resource():
